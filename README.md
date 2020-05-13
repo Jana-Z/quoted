@@ -11,14 +11,14 @@ A simple React app to display quotes
 1. Clone Repository  
 optional change quotes.js to contain you own quotes:  
 ```javascript
-const export QUOTES = [
+export const QUOTES = [
     [["The text of your first quote", "The Author"]],
     [["Text of next quote", "Second Author"]]
 ]
 ```  
 You can also add dialogs:  
 ```javascript
-const export QUOTES = [
+export const QUOTES = [
     [["First part of the dialog", "First Author"],
         ["Response by another person", "Another person"]],
     [["And another simple quote", "Author"]]
