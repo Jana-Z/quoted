@@ -31,4 +31,4 @@ and build with React 16.13.
 ## To Do
 - [ ] Try to deploy on Github pages  
     -> add live code
-- [ ] add quotes.js to GitHub
+- [x] add quotes.js to GitHub

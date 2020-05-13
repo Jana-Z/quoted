@@ -37,7 +37,7 @@ class OutlineButton extends React.Component {
                 fontFamily: "'Titillium Web', sans-serif",
                 borderRadius: "5px",
                 color: this.state.inFocus ? "white" : "#696969"}}>
-        Neues Zitat
+        New Quote
       </button>
     )
   }
