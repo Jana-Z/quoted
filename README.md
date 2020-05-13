@@ -4,7 +4,7 @@ A simple React app to display quotes
 ## Table of Contents
  - [Setup](#setup)
  - [Technologies](#technologies)
- - [Live Demo](#live demo)
+ - [Live Demo](#live-demo)
 
 ## Setup
 1. Clone Repository  
