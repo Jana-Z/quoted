@@ -1,11 +1,10 @@
-React build with react-built app
 # Quoted
 A simple React app to display quotes
 
 ## Table of Contents
  - [Setup](#setup)
  - [Technologies](#technologies)
- - [To Do](#to-do)
+ - [Live Demo](#live demo)
 
 ## Setup
 1. Clone Repository  
@@ -28,7 +27,5 @@ export const QUOTES = [
 This App was constructed with `react-built app`  
 and build with React 16.13.
 
-## To Do
-- [ ] Try to deploy on Github pages  
-    -> add live code
-- [x] add quotes.js to GitHub
+## Live Demo
+A live demo can be found [here](https://jana-z.github.io/quoted/)
